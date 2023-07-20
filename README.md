@@ -7,7 +7,7 @@ This is a simple web application that allows users to see the ASCII value of a k
 
 ## Demo
 
-[Click here](https://example.com) to see a live demo of the Entered Key ASCII Value Teller.
+[Click here]((https://codepen.io/abdul-1432/pen/RwqJZXy)) to see a live demo of the Entered Key ASCII Value Teller.
 
 ## Features
 
